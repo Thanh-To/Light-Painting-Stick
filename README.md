@@ -23,9 +23,9 @@
   
 5. Usage
 
-        Step 1. Using a photo editing software, such as Photoshop, GIMP or Paint.NET, resize your image's height to 60 pixels. Then save                them as a .jpg image. The files should be re-named as integers starting from 0. This will determines the order in which                  the image will be displayed on the light painting stick
+        Step 1. Using a photo editing software, such as Photoshop, GIMP or Paint.NET, resize your image's height to 60 pixels. Then save them as a .jpg image. The files should be re-named as integers starting from 0. This will determines the order in which the image will be displayed on the light painting stick
         
-        Step 2. Run the ImageToText.pde file via processing. Follow the instructions in the file to convert the images to arrays of RGB                 values in a .txt file.
+        Step 2. Run the ImageToText.pde file via processing. Follow the instructions in the file to convert the images to arrays of RGB values in a .txt file.
         
         Step 3. Transfer the above .txt files to an empty SD card.
         
@@ -33,10 +33,10 @@
         
         Step 5. Plug the Ardunio into an USB set up to power the Light Painting Stick.
         
-        Step 6. Set up a camera on a tripod for a long exposure shot, preferably for 10 to 20 seconds. The duration of the exposure                     depends on the width of your image.
+        Step 6. Set up a camera on a tripod for a long exposure shot, preferably for 10 to 20 seconds. The duration of the exposure depends on the width of your image.
         
-        Step 7. Position the Light Painting Stick up right, press the TRIGGER button, as well as the camera's shutter button at the same                 time to start light painting. As soon as the TRIGGER button is pressed, walk forward with the camera on your right.                     Attempt a few times to find out the right walking speed for your setup.
+        Step 7. Position the Light Painting Stick up right, press the TRIGGER button, as well as the camera's shutter button at the same time to start light painting. As soon as the TRIGGER button is pressed, walk forward with the camera on your right. Attempt a few times to find out the right walking speed for your setup.
         
-        Step 8. To change to the next image, simply press the SELECT button. The Light Painting Stick will also display the current file                 number in binary with red as 1 and white as 0. Once the last image is reached, the Light Painting Stick will loop back                   to the first image.
+        Step 8. To change to the next image, simply press the SELECT button. The Light Painting Stick will also display the current file number in binary with red as 1 and white as 0. Once the last image is reached, the Light Painting Stick will loop back to the first image.
  
  Good luck!
