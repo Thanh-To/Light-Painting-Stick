@@ -3,7 +3,7 @@
 ## 1. Overview
 This project is inspired by Adafruit's NeoPixel Painter (https://learn.adafruit.com/neopixel-painter). While the hardware is     similar, the software is completely re-written for improved ease of use, simplied code and wider support of image file extensions. In this project, an image file is converted to an array of RGB values in a txt file using a Processing sketch. The the Arduino will read the text file and display them on the RGB LED strip. The set up can be powered by any USD battery bank or directly to an USD port.
 
-Examples of the images created by this Light Painting Stick can be found here https://www.instagram.com/p/BUUVyVchu4Z/. The files to create the above image are also included in this repository.
+Examples of the images created by this Light Painting Stick can be found here https://flic.kr/s/aHsmb7HqJW. The files to create the above image are also included in this repository.
     
 ## 2. Materials
   - 1 x Arduino Uno/ Arduino Leonardo
